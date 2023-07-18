@@ -2,12 +2,8 @@
     display: flex;
     padding: 5%;
     gap: 2%;
-    // background-color: #27323e;
-    // background-image: radial-gradient(#525247, #c7c7b9);
     color: #000;
     .left {
-        // justify-content: center;
-        // align-items: center;
         width: 30%;
         img{
             padding: 4%;
@@ -51,8 +47,6 @@
                     button {
                         background-color: #4e4f5000;
                         color: #272829;
-                        // background-color: #27323e;
-                        // color: rgb(104, 151, 193);
                         border: none;
                     }
                     button:hover {
@@ -70,7 +64,6 @@
     .container {
         flex-direction: column;
         gap: 0;
-        /* padding: 6%; */
         justify-content: center;
         align-items: center;
         width: 90%;

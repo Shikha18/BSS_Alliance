@@ -2,8 +2,6 @@
     display: flex;
     padding: 5%;
     gap: 2%;
-    // background-color: #27323e;
-    // background-image: radial-gradient(#525247, #c7c7b9);
     color: #000;
     .right {
         width: 30%;
@@ -70,7 +68,6 @@
     .container {
         flex-direction: column-reverse;
         gap: 0;
-        /* padding: 6%; */
         justify-content: center;
         align-items: center;
         width: 90%;

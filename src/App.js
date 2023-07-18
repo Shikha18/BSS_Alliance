@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./Home";
+import Home from "./Components/Home";
 import TeamLayout from "./Components/TeamDetails/TeamLayout/TeamLayout";
 
 function App() {
