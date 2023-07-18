@@ -1,0 +1,86 @@
+
+{
+    "logo": "",
+    "website" : "https://www.bss-at.com/",
+    "email" : "info@bss-at.com",
+    "desciption": "As the name suggest \"Bharat Supply & Support of Advance Technologies\" the entity focuses on indigenous development of Advance \"Next-Generation\" and \"Cutting-Edge\" Technologies, Supporting critical infrastructure with an integrated supply-chain of electronics and electro optics components and critical semi-conductors for manufacturing and repair & maintenance units. Also, it provides design solutions for modernisation and upgradation of electronic assemblies and sub-assemblies and technology development, integration, automation, and testing services.",
+    "pointsHeader":"Current Research & Development activities involve:",
+    "options" : [
+        {
+            "text" : "Development of CNT (Carbon Nanotubes) - Polymer fibres for high strength applications in Space, Aerospace, Automobile etc",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/BSS%20Advance%20Technologies%20in%20pursuit%20of%20the%20ultimate%20body%20armor%20Oct%202021.13a2b915a27145e784f5.pdf"
+                },
+                {
+                    "label": "Play Video",
+                    "link" : "https://www.bss-alliance.com/static/media/DryWired® NanoArmor Carbon Nanotube Body Armor.ab4100afea2819f44a6b.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Satellite Based Air Navigation & Landing system for deployments in India SAARC.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "bss-alliance.com/static/media/GBAS.a9845a6bdbcea9fe9759.pdf"
+                }
+            ]
+        },
+        {
+            "text" : "Laser, LiDAR, Additives, Electro optics etc. with indigenous capacity building of critical technologies and their varied applications.",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link" : "https://www.bss-alliance.com/static/media/Lidars_English.0a67831ecc6142c1f3c4.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Laser melting 3D industrial printer.",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link" : "https://www.bss-alliance.com/static/media/3D_printer_Eng.a1449fb5d9d201c8cb0e.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Device for determining state of alcohol intoxication.",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link" : "https://www.bss-alliance.com/static/media/LS_Alcoframe_Eng_EngSubtitles Sept 22.7ea15ed4d426599bc7cb.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Development of Amphibious boats, capable of manoeuvring in shallow waters, costal land area (without any requirement of dock).",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link": "https://www.bss-alliance.com/static/media/OOHDT.106e1be9d5ecdeaa2b44.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Technology for autonomously producing pure hydrogen by hydrothermal oxidation of aluminium.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/BSS_AT_H2_production.pdf"
+                },
+                {
+                    "label": "PPT",
+                    "link": "https://www.bss-alliance.com/static/media/BSS_AT_H2_production.ppt"
+                }
+            ]
+        }
+
+    ],
+    "play_video" : [
+        ""
+    ]
+
+}

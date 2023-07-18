@@ -1,0 +1,66 @@
+{
+    "logo": "",
+    "website" : "https://www.trojanhuntindia.com/",
+    "email" : "info@trojanhuntindia.com",
+    "desciption": "Trojan Hunt India, MSME Registered and an ISO 9001:2018 ISO 27001:2013 certified company, is amongst the leading Information Security and Cyber Intelligence companies and provides unmatched services and state of the art products to clients throughout the world. We specialize in addressing end-to-end Enterprise Risk. Our customers range from private organizations and government sectors to Subject Matter Experts (SMEs) and third sector associations each being offered varying solution/service interests such as business intelligence, corporate frauds investigations, electronic and technical surveillance, vulnerability assessment, private investigation, social media fraud investigations, legal investigation services (including forensics), cyber crime investigation, penetration testing, incident response, removal of defamatory contents and many more including reputation management",
+    "pointsHeader": "Current Research and Development activities involve:",
+    "options" : [
+        {
+            "text" : "Data Diode (built under Make in India Initiative).",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/FoxDataDiodeDataSheet.78dc4baf6b738f69c048.pdf"
+                },
+                {
+                    "label": "Play Video",
+                    "link" : "https://www.bss-alliance.com/static/media/TheFoxDataDiodeExplained.a71611237548f3c20b6f.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Secure Communication Infrastructure (built under Make in India Initiative).",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/THI_SecureCommunicationServer.a959ade3490ee26708ab.pdf"
+                }
+            ]
+        },
+        {
+            "text" : "BitNet Sentry.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/ES_BNS_Catalog.dae87040c976035fbe54.pdf"
+                }
+            ]
+        },
+        {
+            "text" : "Smartphone Security.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/SmartphoneSecurity.b5179758be7f8d475cb7.pdf"
+                },
+                {
+                    "label": "Play Video",
+                    "link": "https://www.bss-alliance.com/static/media/PRADEO-smishing-spyware-blocking.43fb5cf3bf94248d49f1.mp4"
+                }
+            ]
+        },
+        {
+            "text" : "Data Leakage Prevention Suite & Application (built under Make in India Initiative).",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/Indefend.60601bb5fbe1abce5a3e.pdf"
+                }
+            ]
+        }
+    ],
+    "play_video" : [
+        ""
+    ]
+
+}

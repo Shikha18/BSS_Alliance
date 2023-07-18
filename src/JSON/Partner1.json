@@ -1,0 +1,129 @@
+{
+    "logo": "",
+    "website": "https://www.bssm.limited/",
+    "email": "email@bssm.limited",
+    "desciption": "As the name suggests, the entity focus is on Materiel \"Military Materials and Equipment\" and majorly works on Arms, Ammunition & Allied Accessories, MRO and upgradation of lethal & non-lethal Military equipment, new-generation weapons,equipment and systems.",
+    "pointsHeader": "Current Research & Development activities involve:",
+    "options": [
+        {
+            "text": "BSS SWS, 338 (Sniper Weapon System).",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/BSS_SNIPER_SYSTEM.ee0f762b9a88cf7ae986.pdf"
+                }
+            ]
+           },
+        {
+            "text": "Small Arms  and Weapons.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/Kalashnikov_Catalogue.pdf"
+                }
+            ] 
+        },
+        {
+            "text": "Electro-Optics; Precision Rifle Scopes.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/BSS_MSchmidtandBender.71b31cdddb7a789cad60.pdf"
+                }
+            ] 
+        },
+        {
+            "text": "UAV; UAS; UGV (Unmanned).",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/GRIFF_BSSM.23c59bf9c4c2c941b2f2.pdf"
+                }
+            ]
+        },
+        {
+            "text": "Counter-UAV; C-UAS.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/MC2TechnologiesC-UAVBSS_M.2ed7294d661d3df63193.pdf"
+                }
+            ]
+        },
+        {
+            "text": "CBRNE Detection and Alarm.",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link": "https://www.bss-alliance.com/static/media/BSSEST-zNose.6600ddfe498442190aea.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Wind Tunnel; Air-borne Simulation.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/BSS_MFreeFly.e637ae7bf31cd330fd93.pdf"
+                },
+                {
+                    "label": "Play Video",
+                    "link" : "https://www.bss-alliance.com/static/media/BSS_MFFT.70c2a975a3910784d218.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Small Arms Ammunition and Components.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/MIL_BSS.fa5bd6ad3b2e3b03ffc4.pdf"
+                }
+            ] 
+        },
+        {
+            "text": "Secure & Environment safe disposal of unserviceable Ammunition.",
+            "button": [
+                {
+                    "label": "PDF Presentation",
+                    "link": "https://www.bss-alliance.com/static/media/BSS_M_REACTIVES.46760afb5251677465a2.pdf"
+                }
+            ]
+        },
+        {
+            "text": "LROS Long Range Observation & Surveillance.",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link": "https://www.bss-alliance.com/static/static/media/LROS.8788ac83be0565daa349.mp4"
+                }
+            ]
+        },
+        {
+            "text": "Applications of Nano/Femto technology, Femto/Nano materials like CNT(Carbon-Nanotubes), Graphene, Super-conductors, Laser, LiDAR, Additive and Reactive etc. in Defence.",
+            "button": []
+        }
+    ],
+    "play_video": [
+        {
+            "text": "CNT Body Armor",
+            "button": "Play Video",
+            "link": "https://www.bss-alliance.com/static/media/CarbonNT.62ee7bb9f69f026c48f8.mp4"
+        },
+        {
+            "text": "Nano Mesh WPE",
+            "button": "Play Video",
+            "link": "https://www.bss-alliance.com/static/media/BSS CB Tech NanoMesh Military Grade WaterBox.dbef21d399dd69e21858.mp4"
+        },
+        {
+            "text": "Nano Technology in Water Purification",
+            "button": "Play Video",
+            "link": "https://www.bss-alliance.com/static/media/BSSNanoMesh.3b342359510dbd5183cd.mp4"
+        },
+        {
+            "text": "LiDAR Technology",
+            "button": "Play Video",
+            "link": "https://www.bss-alliance.com/static/media/Lidars_English.0a67831ecc6142c1f3c4.mp4"
+        }
+    ]
+}

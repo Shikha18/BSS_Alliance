@@ -1,0 +1,45 @@
+.main {
+    background-repeat: no-repeat;
+    background-color: #858484;
+    background-size: cover;
+
+    .container {
+        div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            color: #000;
+            align-items: center;
+            text-align: center;
+            letter-spacing: 1px;
+            padding: 5%;
+            backdrop-filter: grayscale(1);
+            text-align: justify;
+
+            h2 {
+                font-size: 30px;
+                font-weight: 500;
+                justify-content: center;
+                align-items: center;
+                margin-top: 0;
+            }
+
+            p {
+                font-size: 16px;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 768px) {
+    .container {
+        div {
+            text-align: justify;
+            padding: 6% 10%;
+
+            h2 {
+                margin: 4px;
+            }
+        }
+    }
+}

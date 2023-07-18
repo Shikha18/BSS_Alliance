@@ -1,0 +1,90 @@
+.container {
+    display: flex;
+    padding: 5%;
+    gap: 2%;
+    // background-color: #27323e;
+    // background-image: radial-gradient(#525247, #c7c7b9);
+    color: #000;
+    .left {
+        // justify-content: center;
+        // align-items: center;
+        width: 30%;
+        img{
+            padding: 4%;
+            width: 45%;
+            height: 40%;
+            margin: 10% 0;
+            border-radius: 2px;
+        }
+        p{
+            a{
+                color: #000;
+            }
+        }
+        ol{
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            margin-top: 10%;
+            div{
+                li {
+                    padding: 2px;
+                    button {
+                        background-color: #4e4f5000;
+                        color: #272829;
+                        border: none;
+                    }
+                    button:hover {
+                        cursor: pointer;
+                        color: rgb(189, 200, 210);
+
+                    }
+                }
+            }
+            
+        }
+    }
+    .right {
+        width: 60%;
+        div {
+            display: flex;
+            ul {
+                li {
+                    button {
+                        background-color: #4e4f5000;
+                        color: #272829;
+                        border: none;
+                    }
+                    button:hover {
+                        cursor: pointer;
+                        color: rgb(189, 200, 210);
+
+                    } 
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 768px){
+    .container {
+        flex-direction: column;
+        gap: 0;
+        /* padding: 6%; */
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        .right {
+            width: 80%;
+        }
+        .left {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 71%;
+            img{
+                margin: 10% 0% 10% 0;
+            }
+        }
+    }  
+}

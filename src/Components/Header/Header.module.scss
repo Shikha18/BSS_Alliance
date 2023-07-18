@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(#62625f, #979090);
+    flex-direction: column;
+    text-align: justify;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    img {
+        width: 12%;
+    }
+    div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: linear-gradient(#262624, #968c8c);
+        width: 100%;
+        color: #ccc;
+        padding: 10px;
+        letter-spacing: 4px;
+        font-weight: 600;
+        box-sizing: border-box;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 768px){
+.container {
+    img {
+        width: 30%;
+        padding: 10px;
+    }
+    div {
+        font-size: 9px;
+        padding: 6px;
+        letter-spacing: 0;
+    }
+}
+}

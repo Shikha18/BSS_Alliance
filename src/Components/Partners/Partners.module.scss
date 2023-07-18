@@ -1,0 +1,15 @@
+.container {
+    background-image: linear-gradient(to bottom, rgb(106, 111, 116), rgb(71, 95, 116), #a1a9a1, #5d5d60, #c0c0bb, #767276);
+    text-align: justify;
+    hr {
+        width: 90%;
+    }
+}
+@media only screen and (min-width: 300px) and (max-width: 768px){
+    .container {
+        text-align: initial;
+        hr {
+            width: 80%;
+        }
+    }
+}

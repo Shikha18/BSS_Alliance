@@ -1,0 +1,32 @@
+{
+    "logo": "",
+    "website" : "https://www.garun.in/",
+    "email" : "info@garun.in",
+    "desciption": "The prime focus of GSI is to develop and manufacture smart solutions and systems that are based on own unique technologies, while addressing industry gaps. The developments made are to be commercially exploited with an efficient high-tech solution for many customer applications.",
+    "pointsHeader": "Current Research and Development activities involve:",
+    "options" : [
+        {
+            "text" : "To support and innovate sustainable development, GSI is working on converting the conventional ICE vehicles into EV \"electric vehicles\".",
+            "button" : []
+        },
+        {
+            "text" : "High-end image analytics solution leveraging Ai CV and Deep Machine Learning. The tool shall be offered as a customized solution as per customer requirements.",
+            "button" : []
+        },
+        {
+            "text" : "Indigenous development of Graphene based Battery cells for energy storage and deployment in EVs, UAVs, Aircraft, Submarine etc.",
+            "button" : []
+        },
+        {
+            "text" : "Technology for autonomously producing pure hydrogen by hydrothermal oxidation of aluminium.",
+            "button": [
+                {
+                    "label": "Play Video",
+                    "link": "https://www.bss-alliance.com/static/media/HYDROGEN_ENG_VA.c31ab6a8df02bbebeb52.mp4"
+                }
+            ]
+        }
+    ],
+    "play_video" : []
+
+}
